@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: my-app
-          image: harsh0911/fashion:v1
+          image: adnansharief/websites:oxer
           ports:
             - containerPort: 80
